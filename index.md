@@ -10,6 +10,9 @@ Follow Us on Twitter: [https://twitter.com/dinobbio](https://twitter.com/dinobbi
 
 - **05.11.2021** - Project Kickoff  - Agenda: [https://docs.google.com/document/d/1O-p3kIk_JW61ad6R8cvdkq8_GpNcd-qjn7U8ceyYuNw](https://docs.google.com/document/d/1O-p3kIk_JW61ad6R8cvdkq8_GpNcd-qjn7U8ceyYuNw)
 
+### Opportunities
+
+
 ### Publications
 
 - Comming soon
@@ -17,6 +20,8 @@ Follow Us on Twitter: [https://twitter.com/dinobbio](https://twitter.com/dinobbi
 ### Roadmap
 
 - Comming soon
+
+
 
 ### Partners
 
