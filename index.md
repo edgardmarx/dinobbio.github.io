@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to DINOBBIO project webpage
 
-You can use the [editor on GitHub](https://github.com/edgardmarx/dinobbio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Discovering Natural Inspired Products From Brazilian Biodiversity
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The chemical diversity of the flora and fauna of the Brazilian Biomes is revealed by a diversity of compound classes and structural types of secondary metabolites from plants, fungi, insects, marine organisms and bacteria. This extraordinary biodiversity and its chemical diversity could be used for the development of bioproducts, including pharmaceuticals, cosmetics, food supplements, and agricultural pesticides. DINIBBIO aims to investigate the challenges imposed on building, managing, and consuming Biochemical Knowledge Graph (BKG) using Semantic Web Technologies and Machine Learning focusing on researching new natural inspired products using Brazilian biodiversity.
 
-### Markdown
+Follow Us on Twitter (https://twitter.com/dinobbio)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Annoucements 
 
-```markdown
-Syntax highlighted code block
+- Project Kickoff 05.11.2021 - Agenda (https://docs.google.com/document/d/1O-p3kIk_JW61ad6R8cvdkq8_GpNcd-qjn7U8ceyYuNw)
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
-- Bulleted
-- List
+- Comming soon
 
-1. Numbered
-2. List
+### Roadmap
 
-**Bold** and _Italic_ and `Code` text
+- Comming soon
 
-[Link](url) and ![Image](src)
-```
+### Partners
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edgardmarx/dinobbio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
