@@ -6,6 +6,8 @@ The chemical diversity of the flora and fauna of the Brazilian Biomes is reveale
 
 Follow Us on Twitter: [https://twitter.com/dinobbio](https://twitter.com/dinobbio)
 
+Keep up-to-date: [https://medium.com/@dinobbio](https://medium.com/@dinobbio)
+
 ### Annoucements 
 
 - **05.11.2021** - Project Kickoff  - Agenda: [https://docs.google.com/document/d/1O-p3kIk_JW61ad6R8cvdkq8_GpNcd-qjn7U8ceyYuNw](https://docs.google.com/document/d/1O-p3kIk_JW61ad6R8cvdkq8_GpNcd-qjn7U8ceyYuNw)
