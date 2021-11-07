@@ -14,6 +14,7 @@ Keep up-to-date: [https://medium.com/@dinobbio](https://medium.com/@dinobbio)
 
 ### Opportunities
 
+- Front-End Engineer [https://www.linkedin.com/hiring/jobs/2789219439/detail/](https://www.linkedin.com/hiring/jobs/2789219439/detail/)
 
 ### Publications
 
