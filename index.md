@@ -15,7 +15,7 @@ Keep up-to-date: [https://medium.com/@dinobbio](https://medium.com/@dinobbio)
 ### Opportunities
 
 - Front-End Engineer [https://www.linkedin.com/hiring/jobs/2789219439/detail/](https://www.linkedin.com/hiring/jobs/2789219439/detail/)
--- The AKSW (http://akws.org) subgroup of the HTWK focuses on the development towards digital, open and collaborative science and supports scientific institutions by developing and testing new methods and software tools together with their communities. We are looking for a communicative and entrepreneurial person with a strong technical background to expand the activities of the AKSW nationally and internationally by helping to build an international research data infrastructure for new natural inspired product discovery based on a biochemical knowledge graph (DINOBBIO).
+-- The AKSW [http://akws.org](http://akws.org) subgroup of the HTWK focuses on the development towards digital, open and collaborative science and supports scientific institutions by developing and testing new methods and software tools together with their communities. We are looking for a communicative and entrepreneurial person with a strong technical background to expand the activities of the AKSW nationally and internationally by helping to build an international research data infrastructure for new natural inspired product discovery based on a biochemical knowledge graph (DINOBBIO).
 
 ### Publications
 
