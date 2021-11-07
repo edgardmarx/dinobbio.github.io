@@ -2,7 +2,7 @@
 
 Discovering Natural Inspired Products From Brazilian Biodiversity
 
-The chemical diversity of the flora and fauna of the Brazilian Biomes is revealed by a diversity of compound classes and structural types of secondary metabolites from plants, fungi, insects, marine organisms and bacteria. This extraordinary biodiversity and its chemical diversity could be used for the development of bioproducts, including pharmaceuticals, cosmetics, food supplements, and agricultural pesticides. DINOBBIO aims to investigate the challenges imposed on building, managing, and consuming Biochemical Knowledge Graph (BKG) using Semantic Web Technologies and Machine Learning. DINIBBIO focuses on research new natural inspired products using Brazilian biodiversity.
+The chemical diversity of the flora and fauna of the Brazilian Biomes is revealed by a diversity of compound classes and structural types of secondary metabolites from plants, fungi, insects, marine organisms and bacteria. This extraordinary biodiversity and its chemical diversity could be used for the development of bioproducts, including pharmaceuticals, cosmetics, food supplements, and agricultural pesticides. DINOBBIO aims to investigate the challenges imposed on building, managing, and consuming Biochemical Knowledge Graph (BKG) using Semantic Web Technologies and Machine Learning. DINOBBIO focuses on research new natural inspired products using Brazilian biodiversity.
 
 Follow Us on Twitter: [https://twitter.com/dinobbio](https://twitter.com/dinobbio)
 
