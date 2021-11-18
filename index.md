@@ -28,4 +28,8 @@ Keep up-to-date: [https://medium.com/@dinobbio](https://medium.com/@dinobbio)
 
 ### Partners
 
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/1/16/HTWK-Logo.svg/1200px-HTWK-Logo.svg.png" width="300"/>
 
+<img src="https://www.combatblindness.org/wp-content/uploads/2017/02/university-of-sao-paulo-logo.jpg" width="300"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Unesp.svg/1200px-Logo_Unesp.svg.png" width="300"/>
